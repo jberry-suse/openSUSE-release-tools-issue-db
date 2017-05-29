@@ -102,11 +102,18 @@
 'rubygem-web-console':
   'CVE-2015-3224': '1041338'
   'bsc#934796': '1041338'
+'scalapack':
+  'fate#321715': '1041345'
 'sendmail':
   'bsc#678432': '1041324'
   'bsc#743147': '1041324'
   'bsc#764107': '1041324'
   'fate#308360': '1041324'
+'xf86-video-ast':
+  'bsc#867165': '1041346'
+  'fate#315643': '1041346'
+'xf86-video-cirrus':
+  'fate#315643': '1041347'
 'xf86-video-sis':
   'fate#315643': '1041339'
 'yast2-multipath':
