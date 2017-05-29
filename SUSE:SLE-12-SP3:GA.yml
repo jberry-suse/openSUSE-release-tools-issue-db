@@ -86,11 +86,16 @@
 'rubygem-rack-ssl':
   'CVE-2014-2538': '1041326'
   'bsc#869162': '1041326'
+'rubygem-web-console':
+  'CVE-2015-3224': '1041338'
+  'bsc#934796': '1041338'
 'sendmail':
   'bsc#678432': '1041324'
   'bsc#743147': '1041324'
   'bsc#764107': '1041324'
   'fate#308360': '1041324'
+'xf86-video-sis':
+  'fate#315643': '1041339'
 'yast2-multipath':
   'bsc#1026027': '1041330'
 'yast2-registration':
