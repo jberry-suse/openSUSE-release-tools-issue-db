@@ -27,6 +27,9 @@
   'bsc#925225': '1041577'
   'bsc#933210': '1041577'
   'bsc#975729': '1041577'
+'bcc':
+  'bsc#990170': '1041678'
+  'fate#320644': '1041678'
 'blog':
   'fate#320593': '1041598'
 'bluez':
@@ -118,6 +121,11 @@
   'fate#306518': '1041365'
   'fate#312090': '1041365'
   'fate#313904': '1041365'
+'dmidecode':
+  'bsc#955705': '1041670'
+  'bsc#974862': '1041670'
+  'fate#320746': '1041670'
+  'fate#320773': '1041670'
 'dmraid':
   'bsc#942987': '1041582'
 'dstat':
@@ -137,6 +145,11 @@
   'bsc#927309': '1041415'
   'bsc#945710': '1041415'
   'fate#320691': '1041415'
+'fate':
+  'bsc#834994': '1041668'
+  'bsc#837458': '1041668'
+  'bsc#839935': '1041668'
+  'bsc#841306': '1041668'
 'figlet':
   'fate#319362': '1041397'
 'fontconfig':
@@ -192,6 +205,10 @@
   'fate#321126': '1041385'
 'gnome-keyring':
   'bsc#994988': '1041433'
+'gnome-patch-translation':
+  'bsc#1011912': '1041659'
+  'bsc#882421': '1041659'
+  'fate#318572': '1041659'
 'gnome-session':
   'bsc#979257': '1041414'
 'gnu-efi':
@@ -289,8 +306,13 @@
   'bsc#770473': '1041637'
 'ibus-pinyin':
   'bsc#000000': '1041607'
+'icecream':
+  'CVE-2014-4607': '1041658'
+  'bsc#861524': '1041658'
 'icewm':
   'fate#320323': '1041626'
+'icewm-theme-branding':
+  'fate#319667': '1041664'
 'ipmitool':
   'bsc#948540': '1041374'
   'bsc#968105': '1041374'
@@ -1681,6 +1703,12 @@
   'fate#320658': '1041648'
 'libnetfilter_log':
   'fate#320697': '1041400'
+'libqt5-creator':
+  'bsc#931622': 'whitelist'
+  'bsc#964864': 'whitelist'
+  'bsc#984605': 'whitelist'
+  'fate#319961': 'whitelist'
+  'fate#320330': 'whitelist'
 'libqt5-qt3d':
   'bsc#1028654': 'whitelist'
   'bsc#964864': 'whitelist'
@@ -1778,6 +1806,13 @@
   'bsc#984605': 'whitelist'
   'fate#319961': 'whitelist'
   'fate#320330': 'whitelist'
+'libqt5-qtsensors':
+  'bsc#1028654': 'whitelist'
+  'bsc#931622': 'whitelist'
+  'bsc#964864': 'whitelist'
+  'bsc#984605': 'whitelist'
+  'fate#319961': 'whitelist'
+  'fate#320330': 'whitelist'
 'libqt5-qtserialport':
   'bsc#1028654': 'whitelist'
   'bsc#931622': 'whitelist'
@@ -1842,6 +1877,13 @@
   'bsc#984605': 'whitelist'
   'fate#319961': 'whitelist'
   'fate#320330': 'whitelist'
+'libqt5-qtxmlpatterns':
+  'bsc#1028654': 'whitelist'
+  'bsc#931622': 'whitelist'
+  'bsc#964864': 'whitelist'
+  'bsc#984605': 'whitelist'
+  'fate#319961': 'whitelist'
+  'fate#320330': 'whitelist'
 'librtas':
   'bsc#902243': '1041412'
   'fate#318014': '1041412'
@@ -1896,11 +1938,17 @@
   'fate#318040': '1041320'
 'lsof':
   'bsc#919358': '1041596'
+'lsscsi':
+  'bsc#576138': '1041676'
+  'bsc#831301': '1041676'
+  'bsc#977572': '1041676'
 'lsvpd':
   'fate#321440': '1041539'
 'ltrace':
   'bsc#872294': '1041328'
   'bsc#937655': '1041328'
+'lua-lmod':
+  'fate#321704': '1041677'
 'lua-luafilesystem':
   'fate#321704': '1041331'
 'lua-luaposix':
@@ -1955,6 +2003,8 @@
   'bsc#944302': '1041649'
 'nghttp2':
   'fate#320269': '1041622'
+'openblas':
+  'fate#321708': '1041663'
 'openct':
   'bsc#859827': '1041375'
 'openldap2':
@@ -2043,6 +2093,11 @@
   'fate#318838': '1041343'
 'python-pyroute2':
   'fate#320644': '1041636'
+'python-pywbem':
+  'CVE-2013-6418': '1041660'
+  'bsc#840250': '1041660'
+  'bsc#856108': '1041660'
+  'bsc#856323': '1041660'
 'qemu':
   'CVE-2016-9602': '1041552'
   'CVE-2016-9923': '1041552'
@@ -2076,6 +2131,8 @@
   'fate#321146': '1041552'
 'quilt':
   'bsc#891332': '1041323'
+'rasdaemon':
+  'fate#319698': '1041673'
 'resource-agents':
   'bsc#1035470': '1041624'
   'bsc#1036486': '1041624'
@@ -2101,8 +2158,12 @@
   'bsc#673750': '1041432'
 'rubygem-fast_gettext':
   'fate#318281': '1041630'
+'rubygem-gettext':
+  'fate#318281': '1041662'
 'rubygem-gettext_i18n_rails':
   'fate#318281': '1041558'
+'rubygem-haml':
+  'fate#318281': '1041669'
 'rubygem-hashie':
   'fate#318281': '1041576'
 'rubygem-i18n':
@@ -2116,6 +2177,8 @@
   'bsc#939726': '1041367'
 'rubygem-rspec-core':
   'bsc#939726': '1041581'
+'rubygem-rspec-expectations':
+  'bsc#939726': '1041674'
 'rubygem-rspec-mocks':
   'bsc#939726': '1041557'
 'rubygem-rspec-support':
@@ -2217,6 +2280,11 @@
   'bsc#989513': '1041647'
 'usb_modeswitch':
   'bsc#890846': '1041656'
+'usbutils':
+  'bsc#870597': '1041675'
+  'bsc#870615': '1041675'
+  'bsc#943773': '1041675'
+  'fate#319959': '1041675'
 'virt-sandbox':
   'bsc#944325': '1041653'
   'fate#313215': '1041653'
@@ -2241,6 +2309,8 @@
   'fate#315643': '1041347'
 'xf86-video-fbdev':
   'fate#320388': '1041351'
+'xf86-video-mga':
+  'fate#315643': '1041661'
 'xf86-video-nv':
   'bsc#868732': '1041416'
   'fate#320388': '1041416'
@@ -2260,6 +2330,8 @@
   'fate#315263': '1041597'
   'fate#317042': '1041597'
   'fate#320443': '1041597'
+'xml-security-c':
+  'bsc#944796': '1041666'
 'xmltooling':
   'bsc#944796': '1041372'
 'xorg-x11-driver-video':
@@ -2275,6 +2347,9 @@
   'fate#320388': '1041610'
 'yast2-installation':
   'bsc#1035908': '1041423'
+'yast2-mail':
+  'bsc#1022360': '1041672'
+  'bsc#994317': '1041672'
 'yast2-multipath':
   'bsc#1026027': '1041330'
 'yast2-network':
