@@ -224,6 +224,13 @@
   'bsc#999376': '1041376'
   'fate#319961': '1041376'
   'fate#320330': '1041376'
+'libqt5-qtscript':
+  'bsc#1028654': 'whitelist'
+  'bsc#931622': 'whitelist'
+  'bsc#964864': 'whitelist'
+  'bsc#984605': 'whitelist'
+  'fate#319961': 'whitelist'
+  'fate#320330': 'whitelist'
 'libqt5-qttools':
   'bsc#1028654': '1041359'
   'bsc#931622': '1041359'
